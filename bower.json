@@ -1,0 +1,22 @@
+{
+    "name": "cssvh",
+    "description": "100vh problem solution",
+    "main": "cssvh.min.js",
+    "moduleType": "globals",
+    "license": "MIT",
+    "keywords": [
+        "100vh",
+        "css",
+        "mobile browser"
+    ],
+    "authors": [
+        {
+            "name": "Aleksandr Solovyov",
+            "email": "solovyov.a.a.19@gmail.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/kl83/cssvh.git"
+    }
+}
