@@ -1,7 +1,5 @@
 # 100vh problem solution
 
-## About the problem
-
 All browsers on mobile devices have a top menu. This menu shifts the viewport,
 and it goes beyond the screen. Therefore, elements with a height of 100vh extend
 beyond the screen.
@@ -43,6 +41,12 @@ calc(100vh - 50px)
 document.addEventListener('DOMContentLoaded', function () {
     cssvh(document.getElementById('some-id'), 100, 50);
 });
+```
+
+## Installation
+
+```
+bower install cssvh
 ```
 
 ## License
